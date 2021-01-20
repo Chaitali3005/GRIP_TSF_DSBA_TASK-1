@@ -1,5 +1,5 @@
 # GRIP_TSF_TASK-1
 
-**TASK 1 - Prediction using Supervised ML**                                          
-1.Predict the percentage of an student based on the number of study hours using Simple Linear Regression model.                                 
+**TASK 1 - Prediction using Supervised ML**
+1.Predict the percentage of a student based on the number of study hours using the Simple Linear Regression model.
 2.Also predict the percentage of the student if he/she studies 9.25 hrs/day.
